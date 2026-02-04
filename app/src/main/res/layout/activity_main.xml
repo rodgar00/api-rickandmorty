@@ -36,7 +36,6 @@
                 android:hint="Filtrar por especie (opcional)" />
         </com.google.android.material.textfield.TextInputLayout>
 
-        <!-- RecyclerView -->
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/characterRecycler"
             android:layout_width="match_parent"
